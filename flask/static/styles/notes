@@ -1,0 +1,7 @@
+numpy
+pandas
+Flask
+gunicorn == 20.0.4
+Pycharm
+torch
+
